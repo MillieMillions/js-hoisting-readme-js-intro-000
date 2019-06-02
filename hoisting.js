@@ -27,3 +27,7 @@ function sayMyName() {
     console.log(name);
   }
 }
+
+const adoptDog = () => {
+  console.log('submit paperwork')
+};
